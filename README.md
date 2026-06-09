@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/ext-1.png" alt="SayCloud — Speak Freely. Delayed auditory feedback for browser calls." width="800">
+</p>
+
 # SayCloud
 
 Real-time Delayed Auditory Feedback (DAF) for browser calls.
